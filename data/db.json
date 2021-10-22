@@ -1,0 +1,28 @@
+{
+  "gerenciador": [
+    {
+      "nome": "Salário",
+      "descricao": "Salario referente ao mes de outubro",
+      "valor": "2000",
+      "tipo": "Receita",
+      "motivo": "Receita",
+      "id": 1
+    },
+    {
+      "nome": "Sorvete",
+      "descricao": "2 sorvetes comprados no dia 22/10",
+      "valor": "5.75",
+      "tipo": "Despesa",
+      "motivo": "Compras",
+      "id": 2
+    },
+    {
+      "nome": "Compras do mes",
+      "descricao": "Ida ao mercado para comprar tudo referente ao mes",
+      "valor": "1230",
+      "tipo": "Despesa",
+      "motivo": "Compras",
+      "id": 3
+    }
+  ]
+}
